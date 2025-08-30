@@ -1,0 +1,7 @@
+../Application/tglib.c:45:4:tliblcd_init	4
+../Application/tglib.c:64:4:tliblcd_get_height	1
+../Application/tglib.c:72:4:tliblcd_get_width	1
+../Application/tglib.c:80:6:tliblcd_onoff_lcd	2
+../Application/tglib.c:98:6:tliblcd_clear_scr	1
+../Application/tglib.c:108:6:tliblcd_draw_rect	5
+../Application/tglib.c:131:12:draw_rect	1
